@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bojana Nešković (Бојана Нешковић)</h1>
-<h3 align="center">IT engineer from Serbia</h3>
+<!--- <h3 align="center">IT engineer from Serbia</h3> --->
 
 - 📫 How to reach me **bojananeskovic007@gmail.com**
 
